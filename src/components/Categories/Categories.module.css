@@ -1,0 +1,14 @@
+.card {
+  margin: 1.5rem;
+  padding: 2rem;
+  border-radius: 6px;
+  box-shadow: rgb(0 0 0 / 10%) 0 7px 25px 0;
+  background-color: white;
+
+
+  width: 100%;
+}
+
+.container {
+  padding: 2px 16px;
+}

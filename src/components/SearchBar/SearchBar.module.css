@@ -1,0 +1,50 @@
+.logo{
+    margin: auto;
+    width: 40px;
+    height: 29px; 
+    margin-bottom: -11px;
+}
+
+.input{
+    width:750px;
+    text-align: center;
+    height: 20px;
+    margin-top: 15px;
+}
+
+.select{
+    width:50px;
+    height: 25px;
+    margin-top: 15px;
+
+}
+
+.cart{
+    margin: auto;
+    width: 40px;
+    height: 29px; 
+    margin-bottom: -11px;
+    margin-top: 15px;
+    position: absolute;
+    right: 10px;
+}
+
+.wishlist{
+    margin: auto;
+    width: 40px;
+    height: 29px; 
+    margin-bottom: -11px;
+    margin-top: 15px;
+    position: absolute;
+    right: 80px;
+}
+
+.notification{
+    margin: auto;
+    width: 40px;
+    height: 29px; 
+    margin-bottom: -11px;
+    margin-top: 15px;
+    position: absolute;
+    right: 150px;
+}
